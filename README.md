@@ -7,8 +7,8 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [SANKALP_JAITLY](https://leetcode.com/jaitlysankalp/)
-- HackerRank: [SANKALP_JAITLY](https://www.hackerrank.com/jaitlysankalp)
+- LeetCode: [LeetCode](https://leetcode.com/jaitlysankalp/)
+- HackerRank: [HackerRank](https://www.hackerrank.com/jaitlysankalp)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
