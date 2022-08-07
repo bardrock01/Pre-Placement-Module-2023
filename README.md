@@ -42,7 +42,7 @@
 2. [Week 2](https://github.com/bardrock01/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%202)
 3. [Week 3](https://github.com/bardrock01/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%203)
 4. [Week 4](https://github.com/bardrock01/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%204)
-5. [Week 5](https://github.com/bardrock01/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%205)
+
 
 
 PPT and Setup Instructions    
